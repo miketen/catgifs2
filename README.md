@@ -1,7 +1,7 @@
 # catgifs
 
 ## interview question
-Using the giphy API build a web app in react + redux + react-router + fetch API that fetches a different cat gif every time.
+Using the giphy API build a web app in react + redux + react-router + fetch API that fetches a different cat gif every time. Please submit a pull request to this repo when your work is complete.
 
 ## user story
 
