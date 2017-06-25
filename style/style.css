@@ -1,0 +1,47 @@
+.global-nav > li {
+    margin:3px 0;
+    width:100%;
+}
+
+.global-nav .btn {
+  display:block;
+}
+
+.tv-container {
+  padding:10px 30px;
+}
+
+.tv {
+  padding: 10px 40px;
+  border: 5px solid black;
+}
+
+.tv-screen {
+  border: 3px solid black;
+  border-radius: 25px;
+}
+
+.tv-controls {
+  height:100%;
+}
+.tv-remote .next {
+  cursor: pointer;
+  padding:24px;
+  position: absolute;
+  top:110px;
+  left:33px;
+}
+
+.tv-remote {
+  margin-top:15px;
+  position: relative;
+  width:150px;
+  height:300px;
+  border:1px solid black;
+}
+
+.remote-label {
+  position:absolute;
+  bottom:0;
+  right:20px;
+}
